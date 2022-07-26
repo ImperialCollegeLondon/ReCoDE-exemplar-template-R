@@ -15,13 +15,11 @@ orci, ut consequat neque.
 
 <!-- What should the students going through your exemplar learn -->
 
-## Learning Outcomes / Learning Objectives / Learning Goals
+## Learning Outcomes
 
 - Skill 1
 - Skill 2
 - Skill 3
-
-<!-- TODO: use the correct names for the Tasks, in table below  -->
 
 <!-- How long should they spend reading and practising using your Code.
 Provide your best estimate -->
@@ -29,7 +27,7 @@ Provide your best estimate -->
 | Task       | Time    |
 | ---------- | ------- |
 | Reading    | 3 hours |
-| Practicing | 3 hours |
+| Practising | 3 hours |
 
 ## Requirements
 
@@ -42,7 +40,7 @@ List any resources you would recommend to get the students started.
 If there is an existing exemplar in the ReCoDE repositories link to that.
 -->
 
-### Academic / Background
+### Academic
 
 <!-- List the system requirements and how to obtain them, that can be as simple
 as adding a hyperlink to as detailed as writting step-by-step instructions.
