@@ -111,4 +111,8 @@ in a tree node.
 └── test
 ```
 
-<!-- Imperial College Copyright Disclaimer and/or licensing -->
+<!-- Change this to your License. Make sure you have added the file on GitHub -->
+
+## License
+
+This project is licensed under the MIT license.
