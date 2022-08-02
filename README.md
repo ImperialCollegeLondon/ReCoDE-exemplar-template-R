@@ -113,4 +113,4 @@ in a tree node.
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the [BSD-3-Clause license](LICENSE.md)
