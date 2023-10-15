@@ -1,14 +1,9 @@
 site_name: ReCoDE Exemplar Template
-
-# Steps to follow on GitHub to publish your mkdocs site:
-# 1. Create a new branch called gh-pages
-# 2. Ensure GitHub Pages is enabled for your repository, Settings>Pages> Enable.
-#    Make sure that Source is set to `gh-pages` and `/(root)`. Save this setting.
-# 3. Ensure that on GitHub workflows have read and write access to your repository
-#    Settings>Actions>General>Workflow permissions, tick `Read and write permissions`
-#    and save this setting.
-# Change this to the name of your repo
 repo_url: https://github.com/ImperialCollegeLondon/ReCoDE-exemplar-template
+
+## Please change the above name and link to point to your exemplar
+## Please do not change the theme or most other options below 
+
 edit_uri: tree/main/docs/
 
 theme:
