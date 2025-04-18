@@ -11,8 +11,8 @@ theme:
   custom_dir: docs
 
   icon:
-    logo: logos/iclogo
-  favicon: assets/iclogo.png
+    logo: assets/iclogo.png
+  favicon: assets/favicon.ico
   font:
     text: Roboto
     code: Roboto Mono
