@@ -24,6 +24,7 @@ jobs:
         env:
           GH_URL: https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}
         run: |
-          sed -E 's#\]\(docs/([^):]+)\)#](\1)#g; s#\]\((?!https?:|mailto:|docs/)([^)]+)\)#](${GH_URL}/\1)#g' README.md
+          perl -pe 's#\]\(docs/([^):]+)\)#](\1)#g; s#\]\((?!https?:|mailto:|docs/)([^)]+)\)#](${GH_URL}/\1)#g' README.md
+
       - name: Deploy Mkdocs
         run: mkdocs gh-deploy --force
