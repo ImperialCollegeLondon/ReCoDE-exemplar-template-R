@@ -40,6 +40,9 @@ plugins:
   - search
   - include-markdown # https://github.com/mondeja/mkdocs-include-markdown-plugin
   - mkdocs-jupyter
+  - exclude:
+      glob:
+      - "LICENSE.md"
 
 # Set settings for markdown extensions
 markdown_extensions:
