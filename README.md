@@ -2,6 +2,11 @@
 
 # Project title
 
+<!-- You may wish to provide an image -->
+
+![Scikit Camera Image](readme-img.png)
+Sample Image
+
 <!-- Provide a short description to your project -->
 
 ## Description
@@ -95,21 +100,18 @@ in a tree node.
 
 ```log
 .
-├── examples
-│   ├── ex1
-│   └── ex2
+├── notebooks
+│   ├── ex1.ipynb
 ├── src
 |   ├── file1.py
 |   ├── file2.cpp
 |   ├── ...
 │   └── data
-├── app
 ├── docs
-├── main
 └── test
 ```
 
-<!-- Change this to your License. Make sure you have added the file on GitHub -->
+<!-- Adjust this text and LICENCE.md file (e.g. years) as needed -->
 
 ## License
 
