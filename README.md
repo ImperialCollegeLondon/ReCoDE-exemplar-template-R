@@ -4,7 +4,7 @@
 
 <!-- You may wish to provide an image -->
 
-![Scikit Camera Image](readme-img.png)
+![Scikit Camera Image](docs/assets/readme-img.png)
 Sample Image
 
 <!-- Provide a short description to your project -->
