@@ -12,10 +12,10 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "mkdocs==1.5.3",
-    "mkdocs-include-markdown-plugin==3.7.1",
-    "mkdocs-jupyter==0.24.5",
+    "mkdocs==1.6.1",
+    "mkdocs-include-markdown-plugin==7.1.5",
+    "mkdocs-jupyter==0.25.1",
     "mkdocs-exclude==1.0.2",
-    "mkdocs-material==9.4.6",
-    "python-markdown-math==0.8"
+    "mkdocs-material==9.6.12",
+    "python-markdown-math==0.9"
 ]
