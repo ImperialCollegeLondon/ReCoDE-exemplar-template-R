@@ -36,6 +36,7 @@ skills will be gained by studying your ReCoDE exemplar. -->
 ## Learning Outcomes
 
 After completing this exemplar, students will:
+
 - Learning Outcome 1
 - Learning Outcome 2
 - Learning Outcome 3
@@ -72,6 +73,7 @@ you must include a relevant section that helps with learning this library.
 ## Getting Started
 
 e.g. Step-by-step guide:
+
 1. Start by (instruction).
 2. Visit the sections of this notebook in some particular order.
 3. Attempt exercises `1a`, `1b`, etc.
@@ -111,6 +113,7 @@ Overview of code organisation and structure.
 ```
 
 Code is organised into logical components:
+
 - `notebooks` for tutorials and exercises
 - `src` for core code, potentially divided into further modules
 - `data` within `src` for datasets
@@ -152,6 +155,7 @@ Completed tasks are marked with an x between the square brackets.
 ## Roadmap
 
 ### 🧩 Core
+
 - [x] Data ingestion pipeline
   - [x] Tutorial with small data exercise
 - [x] Core analysis algorithms
@@ -166,6 +170,7 @@ Completed tasks are marked with an x between the square brackets.
 - [ ] Documentation for core methods
 
 ### 🔌 Extensions
+
 - [ ] Advanced statistical models
   - [ ] Example notebook with exercises
 - [ ] Interactive dashboard
@@ -182,6 +187,7 @@ Completed tasks are marked with an x between the square brackets.
 ## Data
 
 List datasets used with:
+
 - Licensing info
 - Where they are included (in the repo or external links)
 
