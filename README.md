@@ -157,31 +157,31 @@ Completed tasks are marked with an x between the square brackets.
 ### 🧩 Core
 
 - [x] Data ingestion pipeline
-  * [x] Tutorial with small data exercise
+    * [x] Tutorial with small data exercise
 - [x] Core analysis algorithms
-  * [x] Documentation with worked example
+    * [x] Documentation with worked example
 - [ ] Basic visualisation tools
-  * [ ] Mini-project: "Create your first plot"
+    * [ ] Mini-project: "Create your first plot"
 - [ ] Results export functionality
-  * [ ] Usage tutorial with export task
-  * [ ] Short video walkthrough *(planned)*
+    * [ ] Usage tutorial with export task
+    * [ ] Short video walkthrough *(planned)*
 - [ ] Automated testing suite
-  -* [ ] Debugging challenge
+    * [ ] Debugging challenge
 - [ ] Documentation for core methods
 
 ### 🔌 Extensions
 
 - [ ] Advanced statistical models
-  * [ ] Example notebook with exercises
+    * [ ] Example notebook with exercises
 - [ ] Interactive dashboard
-  * [ ] Exercise: Build a simple component
+    * [ ] Exercise: Build a simple component
 - [ ] Multi-format data import/export
-  * [ ] Guide with hands-on tasks
+    * [ ] Guide with hands-on tasks
 - [ ] Collaboration tools integration
-  * [ ] Exercise: Set up collaborative workflow
-  * [ ] Include diagram of workflow *(optional)*
+    * [ ] Exercise: Set up collaborative workflow
+    * [ ] Include diagram of workflow *(optional)*
 - [ ] Extended visualisation options
-  * [ ] Creative task: Design a custom plot
+    * [ ] Creative task: Design a custom plot
 
 <!-- Data availability (remove this section if no data used) -->
 ## Data
