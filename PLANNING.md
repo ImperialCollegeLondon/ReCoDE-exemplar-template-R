@@ -10,7 +10,7 @@ will serve as the landing page for your exemplar, providing learners
 with an outline of what they can expect should they engage with
 the work.
 
-Recall that you are developing a software project and learning
+Keep in mind that you are developing a software project and learning
 resource at the same time. It is important to keep this in mind
 throughout the development and plan accordingly.
 
