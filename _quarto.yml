@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/ImperialCollegeLondon/ReCoDE-exemplar-template-R   # include your GitHub repo URL
+        aria-label: GitHub
 
 format:
   html:

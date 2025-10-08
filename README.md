@@ -21,7 +21,7 @@ throughout the development and plan accordingly.
 
 <!-- A brief description of your exemplar, which may include an image -->
 This is a brief abstract of my exemplar, which includes a representative image.
-![Scikit Camera Image](docs/assets/readme-img.png)
+![Scikit Camera Image](img/readme-img.png)
 
 <!-- Author information -->
 This exemplar was developed at Imperial College London by (YOUR NAME) in
