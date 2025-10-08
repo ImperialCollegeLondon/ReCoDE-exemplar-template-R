@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "ReCoDE-exemplar-template-R"
+  title: "ReCoDE Exemplar Template R"
   navbar:
     left:
       - href: index.qmd
